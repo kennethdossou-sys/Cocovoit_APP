@@ -8,6 +8,7 @@ public class CocovoitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CocovoitApplication.class, args);
+		
 	}
 
 }
